@@ -37,6 +37,7 @@ def get_retriever() -> Any:
     retriever = db.as_retriever(search_kwargs={"k": 5})
     return retriever
 
+
 def get_answer(question: str, retriever: Any) -> str:
     """
     Fetches an answer to the question based on retrieved context and an external LLM API.

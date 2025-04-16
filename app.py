@@ -13,6 +13,7 @@ def index():
     """
     return render_template('index.html')
 
+
 @app.route('/Chatbot', methods=['POST'])
 def chatbot():
     """
