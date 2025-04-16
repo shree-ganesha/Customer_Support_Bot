@@ -1,0 +1,9 @@
+flask==3.0.0
+numpy==1.25.0
+scipy
+langchain-community
+langchain
+sentence-transformers
+python-dotenv==1.0.1
+chromadb
+google-generativeai
