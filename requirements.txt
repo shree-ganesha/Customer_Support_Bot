@@ -4,3 +4,4 @@ scipy==1.15.2
 langchain-community==0.3.16
 langchain==0.3.23
 python-dotenv==1.0.1
+gunicorn
