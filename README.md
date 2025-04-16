@@ -67,6 +67,7 @@ Visit: [http://127.0.0.1:5000]
 
 
 ### Theming & UI
+![image](https://github.com/user-attachments/assets/826dbd7c-f7a8-4f1a-a570-75c8cdbb01f4)
 
 You can customize the UI by editing CSS inside `index.html`.  
 Change colors, fonts, or layout to suit your brand (blue theme is default).
