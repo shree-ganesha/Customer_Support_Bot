@@ -86,5 +86,5 @@ Change colors, fonts, or layout to suit your brand (blue theme is default).
 ## Author
 
 **Shreeganesha**  
-Email: [shreeganesha@2001@gmail.com](shreeganesha@2001@gmail.com)
+Email: [shreeganesha@2001@gmail.com](mailto:shreeganesha@2001@gmail.com)
 GitHub: [@shree-ganesha](https://github.com/shree-ganesha)
