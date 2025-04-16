@@ -1,9 +1,6 @@
 flask==3.0.0
 numpy==1.25.0
-scipy
-langchain-community
-langchain
-sentence-transformers
+scipy==1.15.2
+langchain-community==0.3.16
+langchain==0.3.23
 python-dotenv==1.0.1
-chromadb
-google-generativeai
