@@ -5,14 +5,7 @@ This project is a minimal AI chatbot web application using **Flask (Python)** fo
 
 
 ### Folder Structure
-RAG/
-├── app.py
-├── rag_pipeline.py
-├── requirements.txt
-├── README.md
-├── chroma_db/
-└── templates/
-    └── index.html
+<pre> ### Folder Structure ``` RAG/ ├── app.py ├── rag_pipeline.py ├── requirements.txt ├── README.md ├── chroma_db/ └── templates/ └── index.html ``` </pre>
 
 
 ### Requirements
