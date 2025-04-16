@@ -5,4 +5,5 @@ langchain-community==0.3.16
 langchain==0.3.23
 python-dotenv==1.0.1
 sentence-transformers==4.1.0
+chromadb==1.0.4
 gunicorn
